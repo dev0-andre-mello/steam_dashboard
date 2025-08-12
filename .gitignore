@@ -1,0 +1,17 @@
+# Virtual Environment
+venv/
+__pycache__/
+*.pyc
+
+# Data Base
+instance/
+*.db
+
+# Personal config files
+.env
+
+# Pycharm
+.idea/
+
+# System files
+.DS_Store
