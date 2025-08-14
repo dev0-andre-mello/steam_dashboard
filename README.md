@@ -18,13 +18,13 @@ An interactive dashboard built with Streamlit to visualize the most played games
 
 ## Technologies
 
-- Python 3.x;
+- 🐍 Python 3.x;
 
-- Streamlit – for creating the interactive interface;
+- 🌐 Streamlit – for creating the interactive interface;
 
-- Pandas – for data manipulation;
+- 🐼 Pandas – for data manipulation;
 
-- Plotly – for data visualization.
+- 📈 Plotly – for data visualization.
 
 ---
 
