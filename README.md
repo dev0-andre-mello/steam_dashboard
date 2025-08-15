@@ -33,7 +33,7 @@ An interactive dashboard built with Streamlit to visualize the most played games
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/steam_dashboard.git
+    git clone https://github.com/dev0-andre-mello/steam_dashboard.git
     cd steam_dashboard
 
 2. Create a virtual environment:
